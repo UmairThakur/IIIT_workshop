@@ -1,6 +1,6 @@
 ---
 title: "Demo Git"
-author: "Umair Thakur"
+author: "Umair Hamid Thakur"
 date: "2023-01-14"
 output: html_document
 ---
